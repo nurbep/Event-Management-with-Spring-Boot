@@ -1,0 +1,23 @@
+
+<nav role="navigation" class="navbar navbar-default">
+
+	<div class="">
+		<a href="/" class="navbar-brand">Event Management</a>
+	</div>
+
+	<div class="navbar-collapse">
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="/">Home</a></li>
+			<li><a href="/admin/facilities/">Facility</a></li>
+			<li><a href="/admin/buildings/">Building</a></li>
+			<li><a href="/admin/rooms/">Room</a></li>
+			<li><a href="/categories/">Category</a></li>
+			<li><a href="/events/">Event</a></li>
+			<li><a href="/admin/userapproval/">User Approval</a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+	</div>
+
+</nav>
